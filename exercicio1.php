@@ -15,4 +15,4 @@ else
 {
   $c=$c-5;
    echo "numero é menor ou igual que vinte subtrai 5un:".$c;
-}
+} 

@@ -15,4 +15,4 @@ If($a%5==0)
 If($a%10==0)
 {
    echo "o numero $a é divisivel por 10".PHP_EOL;
-}
+} 

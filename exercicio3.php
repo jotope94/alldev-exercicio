@@ -12,4 +12,4 @@ If($sexo=="f"&& $idade<25)
 else
 {
     echo "Não Aceita";
-}
+} 

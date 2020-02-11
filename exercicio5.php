@@ -6,4 +6,4 @@ while($i<$a)
 {
     echo "SOL".PHP_EOL;
     $i++;
-}
+} 
